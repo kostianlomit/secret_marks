@@ -2,7 +2,7 @@
 name = "secret-marks"
 version = "23.10"
 description = ""
-authors = ["Andrew Martyanov <666ytra@gmail.com>"]
+authors = ["Lomako Kostya <kostianlomit@gmail.com>"]
 readme = "README.md"
 packages = [{include = "secret_marks"}]
 
